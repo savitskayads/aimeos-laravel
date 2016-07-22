@@ -6,8 +6,8 @@
     "license": "MIT",
     "keywords": ["aimeos", "laravel", "e-commerce", "ecommerce", "shop", "portal", "market place"],
     "support": {
-        "source": "https://github.com/Aimeos/aimeos-laravel",
-        "issues": "https://github.com/Aimeos/aimeos-laravel/issues",
+        "source": "https://github.com/savitskayads/aimeos-laravel",
+        "issues": "https://github.com/savitskayads/aimeos-laravel/issues",
         "forum": "https://aimeos.org/help",
         "wiki": "https://aimeos.org/docs"
     },
